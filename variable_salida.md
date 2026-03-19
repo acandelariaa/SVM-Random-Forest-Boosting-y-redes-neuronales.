@@ -72,4 +72,4 @@ esto podria generar sesgos si no lo tratamos con cuidado.
 
 ---
 
-Siguiente pagina 
+[Siguiente Pagina](Split_datos.md)
