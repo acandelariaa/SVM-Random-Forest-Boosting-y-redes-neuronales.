@@ -131,4 +131,4 @@ que solo tenía 115 ejemplos de planetas
 habitables para aprender durante el entrenamiento.
 
 ----
-Siguiente pagina
+[Siguiente pagina](Modelo_boosting.md)
