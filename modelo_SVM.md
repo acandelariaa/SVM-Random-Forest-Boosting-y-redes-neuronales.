@@ -74,9 +74,9 @@ plt.show()
 
 
 La matriz de confusión nos muestra lo que temiamos, el modelo es muy malo para clasificar cuales no son habitables, 
-ya que como vemos, 949 planetas que no eran habitables el modelo las clasifico como habitable.
+ya que como vemos, 949 planetas que no eran habitables el modelo las clasifico como habitable. Sin embargo es importante mencionar que al parecer, puede predecir bien cuales si son habitables, algo interesante, si no fuera por el gran desbalance de planetas no habitables marcados como que si lo fueran, seria un gran avance.
 
 En terminos generales, es un modelo que le cuesta mucho el clasificar planetas.
 
 ---- 
-Siguiente pagina
+[Siguiente pagina](modelo_RN.md)
