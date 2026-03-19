@@ -47,7 +47,7 @@ Recursos
 
 [Definir variable de salida](variable_salida.md)
 
-[Split de datos](split.md)
+[Split de datos](Split_datos.md)
 
 [Modelo Random Forest](Modelo_RF.md)
 
