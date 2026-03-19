@@ -20,7 +20,7 @@ Este proyecto utiliza los modelos mencionados para clasificar y predecir la **ha
 
 Recursos
 
-| Dataset |[NASA_exoplanets (ya imputada)](dataset_final_exoplanetas.csv) |
+| Dataset |[NASA_exoplanets (ya limpio)](df_limpio.csv) |
 |---|---|
 | **Notebook** | [.ipynb](A_2_3_SVM_RF_BST.ipynb) |
 
