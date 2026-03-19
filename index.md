@@ -46,10 +46,15 @@ Recursos
 ## Procedimiento
 
 [Definir variable de salida](variable_salida.md)
+
 [Split de datos](split.md)
+
 [Modelo Random Forest](Modelo_RF.md)
+
 [Modelo Boosting](Modelo_boosting.md)
+
 [Modelo SVM](modelo_SVM.md)
+
 [Modelo Red Neurona / Conclusionesl](modelo_RN.md)
 
 
