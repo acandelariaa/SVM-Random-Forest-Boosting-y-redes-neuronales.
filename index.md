@@ -46,11 +46,6 @@ Recursos
 ## Procedimiento
 
 
-[Particion de datos](particion.md)
-
-[LDA](LDA.md)
-
-[Arboles](arboles.md)
 
 
 ## Referencias
