@@ -219,7 +219,7 @@ Outliers restantes después de imputación:
 ```
 
 
-\Muy interesante lo que estamos viendo, aun despues de haber aplicado el metodo de KNN para remplazar los 
+Muy interesante lo que estamos viendo, aun despues de haber aplicado el metodo de KNN para remplazar los 
 valores atipicos, parece que siguen habiendo valores extremos, esto podria sugerir que la naturaleza de algunos
 datos es real y no es un error de captura, por lo que para fines practicos lo dejaremos asi.
 
