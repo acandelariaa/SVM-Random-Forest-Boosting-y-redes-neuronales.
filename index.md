@@ -22,7 +22,7 @@ Recursos
 
 | Dataset |[NASA_exoplanets (ya imputada)](dataset_final_exoplanetas.csv) |
 |---|---|
-| **Notebook** | [.ipynb](A2_2_LDA_Arboles.ipynb) |
+| **Notebook** | [.ipynb](A_2_3_SVM_RF_BST.ipynb) |
 
 ---
 
