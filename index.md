@@ -55,7 +55,7 @@ Recursos
 
 [Modelo SVM](modelo_SVM.md)
 
-[Modelo Red Neurona / Conclusionesl](modelo_RN.md)
+[Modelo Red Neuronal / Conclusionesl](modelo_RN.md)
 
 
 ## Referencias
