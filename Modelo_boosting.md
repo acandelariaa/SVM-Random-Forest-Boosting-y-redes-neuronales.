@@ -86,4 +86,4 @@ SI son habitables, como consecuencia, perdemos un poco de precisión en los plan
 sin embargo, es una mejora muy significativa.
 
 ----
-Siguiente pagina
+[Siguiente Pagina](modelo_SVM.md)
