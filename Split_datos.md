@@ -224,4 +224,4 @@ valores atipicos, parece que siguen habiendo valores extremos, esto podria suger
 datos es real y no es un error de captura, por lo que para fines practicos lo dejaremos asi.
 
 -----
-Siguiente pagina
+[Siguiente pagina](Modelo_RF.md)
